@@ -231,7 +231,7 @@ plt.show()
 
 可视化结果如下：
 
-![output](./img/output.png)
+![output](./output/output.png)
 
 四个质心的坐标位置如下：
 
